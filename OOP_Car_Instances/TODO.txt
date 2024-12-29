@@ -1,0 +1,32 @@
+Predict what will happen:
+- Discuss and point out code that looks familiar
+- Identify code that looks new
+- Try to figure out what will be the output
+
+Run! Any surprises?
+
+Investigate figure out these things:
+
+- Where and how is the cars array used?
+- How many cars can be shown? is there a limit? 
+- How is the car class defined?
+- What is different about the variables in the car class?
+- What functions can a car "do"?
+- How does the car reappear on the other side of the canvas?
+- How do cars move at different speeds? direction?
+- How does the main draw function use the Car class to draw them?
+- Why is display() and how is it different from move()?
+
+Modify it!
+- Make a different looking car.
+- Make all cars move faster or slower.
+- Bonus: make all cars speed up or slow down with keyboard events
+
+Make a new animation based on this example:
+
+- Rewrite your planet objects into a class
+- Create  bouncing balls with mouse clicks
+- Make moving clouds that move off the screen
+- Make a monster class that spawns new unique monsters each time
+
+

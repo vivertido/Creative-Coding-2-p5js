@@ -1,0 +1,16 @@
+Use this starter to learn how to make cars clickable
+
+1. Review the code, especially the new clicked() method
+2. When does it return true? How do the dimenions and position work?
+3. Notice how the clicked() method only needs to report its status
+4. TODO: update mousePressed() so:
+
+    - It checks if a car's clicked method returns true
+    - If so, use splice to remove that index
+    
+5. use the wasDeleted boolean to prevent a car from being created when one is deleted
+6. Have something else happen when the car is clicked 
+7. Make it into a game where the object is to click on cars.
+   - What would you need to change? 
+   - What new variables or functions would you write?
+

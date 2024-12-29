@@ -1,0 +1,22 @@
+TODO: Explore and modify this sketch
+
+1. Predict what the sketch will do
+
+2. Run and confirm
+
+3. Investigate constants: 
+  - How does altering them change the animation?
+  - What happens if you try to set another value for a constant?
+  
+4. Investigate the Bubble class:
+  - How does it draw itself?
+  - What variables does it need?
+  - What other data can be added to the constructor?
+
+5. Modify: 
+  - Make the bubbles move differently
+  - Move the Bubble class to a bubble.js file
+  - Add different emojis
+  - Change the constructor to include more properties
+  - Change the constants
+  

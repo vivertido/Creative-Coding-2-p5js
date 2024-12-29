@@ -1,0 +1,19 @@
+1. Predict and Run
+
+2.Investigate some things:
+- What is vx and how is that value used in move()? 
+- What does set() do to the acceleration?
+- How does the draw function move the particles?
+- How does applyForce() use the acceleration vector?
+- How can you change the direction of where the particles move to?
+- How can you change how fast they move?
+
+3. Modify it a bit:
+- Make the particles drift evenly
+- Make the particles bounce faster every time they hit a wall
+- Make particles that are smaller move slower (to simulate being further away)
+- Instead of adding gravity, remove it to simulate weightlessness.
+- Make them bounce off each other.
+- Have them draw on the background 
+- Make the particles change color depending on their speed
+
