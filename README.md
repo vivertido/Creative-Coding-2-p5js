@@ -14,7 +14,7 @@ either a demo, challenge, starter code, or finished exemplar aligned to the lear
 - Interaction with objects and collision detection
 - Vectors and motion
 - Random vs. Noise
-- Generatinb particles 
+- Generating particles 
 - Controlling particle speed, behavior
 
 ## Pedagogy
